@@ -1,5 +1,5 @@
-# capybara_with_cucumber_ruby
-Software Automation Testing using cucumber
+# Capybara With Cucumber Ruby
+BDD Software Automation Testing using capybara ruby, and cucumber
 
 ## Installation
 1. [Ubuntu](https://github.com/fathirwafda/capybara_cucumber_po/blob/master/docs/Ubuntu-Installation.md)
