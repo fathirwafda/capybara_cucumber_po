@@ -1,6 +1,4 @@
 class SearchPage < SitePrism::Page
-  # path: '/search?q=komputer&lCtgrNo='
-  # set_url(path) #optionStock0
 
   element :tab_terlaris, :xpath, '//*[text()="Produk terlaris"]'
   element :sort_panel, "#searchCondition_wrap"

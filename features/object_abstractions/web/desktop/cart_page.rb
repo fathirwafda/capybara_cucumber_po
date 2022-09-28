@@ -1,7 +1,5 @@
 class CartPage < SitePrism::Page
   element :ubah_kurir, :xpath, '/html/body/div[3]/section[1]/article/form/table/tbody/tr/td[6]/a[1]'
-  # element :batal_kurir, :xpath, "//*[contains(text(),'Batal')]"
-  # /html/body/section/form/article/p[3]/a[2]
   element :batal_kurir, :xpath, "/html/body/section/form/hgroup/a"
   element :hapus_barang_cart, :xpath, '/html/body/div[3]/section[1]/article/form/div[1]/p[1]/a[1]'
   element :ok_to_delete_cart, "#chkDelPopY"

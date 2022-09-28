@@ -9,7 +9,6 @@ class HomePage < SitePrism::Page
   element :close_popup_home, '.btn-close.closeBtnMainPromo'
   element :search_field, '#AKCKwd'
   element :search_keyword, :xpath, '//strong[contains(text(),"komputer")]'
-  # element :tab_rekomendasi, :xpath, /html/body/section/section/article[2]/div[1]/div[1]/div[1]/ul/li[1]/a
 
   def click_close_popup_home
     wait_until_close_popup_home_visible(wait: 5)

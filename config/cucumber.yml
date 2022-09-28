@@ -6,6 +6,4 @@ web-desktop: features/scenarios/web/desktop
          -r screenshots
          -r features/step_definitions/web/desktop
          -r features/object_abstractions/web/desktop
-         -r config/api/api.rb
-         -r features/step_definitions/api
          -r features/step_definitions/web/global_steps
