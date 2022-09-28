@@ -12,3 +12,5 @@ Profile configuration : config/cucumber.yml
 |-----------------------------|-----------------------------------------------------|
 | **Desktop**                 | `bundle exec cucumber -p web-desktop`               |
 
+## POC
+If you still facing any technical issues after following the documentation, you can watch from video that I've recorded during automation was ruuning [here](https://github.com/fathirwafda/capybara_cucumber_po/blob/master/POC.mp4)
