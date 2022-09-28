@@ -3,7 +3,7 @@ Software Automation Testing using cucumber
 
 ## Installation
 1. [Ubuntu](https://github.com/fathirwafda/capybara_cucumber_po/-/blob/master/docs/Ubuntu-Installation.md)
-2. [MacOS](https://ggithub.com/fathirwafda/capybara_cucumber_po/-/blob/master/docs/MacOS-Installation.md)
+2. [MacOS](https://github.com/fathirwafda/capybara_cucumber_po/-/blob/master/docs/MacOS-Installation.md)
 
 ## Profiles
 Profile configuration : config/cucumber.yml
