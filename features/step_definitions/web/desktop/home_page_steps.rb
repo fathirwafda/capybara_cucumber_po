@@ -7,3 +7,4 @@ end
 When(/^user fill in "([^"]*)" on the search field$/) do |product|
   @browser = HomePage.new
   @browser.search_product(product)
+end
